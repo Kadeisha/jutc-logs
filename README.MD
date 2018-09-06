@@ -1,6 +1,7 @@
 # Advanced Progamming
 ## Logging and Exceptions
 
-@author ggordon
+@author Kadeisha
+
 
 Sample project demonstrating use of Log4j
